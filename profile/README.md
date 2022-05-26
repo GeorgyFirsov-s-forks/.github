@@ -1,4 +1,4 @@
-This repository contains my forks.
+This organization contains my forks.
 
 Main profile: [GeorgyFirsov][1] ([web-page][2])
 
